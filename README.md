@@ -65,6 +65,13 @@ deberías ser un :hatched_chick:.
 Además, si sigues estudiando estos temas podrás, muy pronto,
 llegar a ser un :chicken: de la programación[\*](#footnote).
 
+## Estructura
+
+En este repositorio, podrás encontrar el material de apoyo utilizado por los instructores,
+en carpetas —organizadas por cada clase— que almacenan el contenido: materia y ejercicios.
+Sin embargo, es importante señalar que tu **asistencia regular** al taller es fundamental,
+ya que estos archivos sólo complementan tu aprendizaje presencial.
+
 ---
 
 <a name='footnote'>\*</a>
