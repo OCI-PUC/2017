@@ -72,6 +72,16 @@ en carpetas —organizadas por cada clase— que almacenan el contenido: materia
 Sin embargo, es importante señalar que tu **asistencia regular** al taller es fundamental,
 ya que estos archivos sólo complementan tu aprendizaje presencial.
 
+## Contacto
+
+Si deseas comunicarte con nosotros, puedes hacerlo a través de…
+
+:incoming_envelope: un [correo electrónico]  
+:busts_in_silhouette: un mensaje por [Facebook]  
+:camera: un comentario en [Instagram]  
+:video_camera: un comentario en el canal de [YouTube]  
+:speech_balloon: o bien, con vibraciones de moléculas de aire, durante cada clase.
+
 ---
 
 <a name='footnote'>\*</a>
@@ -79,5 +89,10 @@ Obviamente, en el buen sentido… si es que existe alguno. :roll_eyes:
 
 [/]:# (Enlaces externos)
 
-[OCI]:  http://www.olimpiada-informatica.cl
-[Java]: https://es.wikipedia.org/wiki/Java_(lenguaje_de_programación)
+[OCI]:                http://www.olimpiada-informatica.cl
+[Java]:               https://es.wikipedia.org/wiki/Java_(lenguaje_de_programación)
+
+[correo electrónico]: mailto:taller.puc.oci@gmail.com
+[Facebook]:           https://www.facebook.com/TallerOCI.PUC/
+[Instagram]:          https://www.instagram.com/taller.oci.puc/
+[YouTube]:            https://www.youtube.com/channel/UCpj40cy5gpp7r_FopInRgLg
