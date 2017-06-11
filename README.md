@@ -4,6 +4,19 @@
 Bienvenido al principal repositorio para el taller de programación,  
 como preparación a las Olimpiadas Chilenas de Informática ([OCI]).
 
+## Tabla de contenidos
+
+- [Objetivos](#objetivos)
+- [Calendario](#calendario)
+  - [Junio](#junio)
+  - [Julio](#julio)
+  - [Agosto](#agosto)
+  - [Septiembre](#septiembre)
+- [Estructura](#estructura)
+- [Contacto](#contacto)
+
+---
+
 ## Objetivos
 
 > Este taller está orientado a estudiantes de educación media.
