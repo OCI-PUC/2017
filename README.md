@@ -14,6 +14,7 @@ como preparación a las Olimpiadas Chilenas de Informática ([OCI]).
   - [Septiembre](#septiembre)
 - [Estructura](#estructura)
 - [Contacto](#contacto)
+- [Licencia](#licencia)
 
 ---
 
@@ -95,6 +96,13 @@ Si deseas comunicarte con nosotros, puedes hacerlo a través de…
 :video_camera: un comentario en el canal de [YouTube]  
 :speech_balloon: o bien, con vibraciones de moléculas de aire, durante cada clase.
 
+## Licencia
+
+[![Creative Commons License][img-src]][img-ref]  
+El contenido de este repositorio está bajo una licencia [Creative Commons 4.0][img-ref].
+
+[/]:# (Y este _emoji-powered_ documento fue confeccionado con mucho :heart: por @nebil.)
+
 ---
 
 <a name='footnote'>\*</a>
@@ -109,3 +117,6 @@ Obviamente, en el buen sentido… si es que existe alguno. :roll_eyes:
 [Facebook]:           https://www.facebook.com/TallerOCI.PUC/
 [Instagram]:          https://www.instagram.com/taller.oci.puc/
 [YouTube]:            https://www.youtube.com/channel/UCpj40cy5gpp7r_FopInRgLg
+
+[img-src]:            https://i.creativecommons.org/l/by-sa/4.0/80x15.png
+[img-ref]:            https://creativecommons.org/licenses/by-sa/4.0/
