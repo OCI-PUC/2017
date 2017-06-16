@@ -1,8 +1,14 @@
 
 # OCI–PUC 2017
 
+:bear: 
+_Hola, mi nombre es Ocito.  
+     
 Bienvenido al principal repositorio para el taller de programación,  
-como preparación a las Olimpiadas Chilenas de Informática ([OCI]).
+     
+como preparación a las Olimpiadas Chilenas de Informática ([OCI]).  
+     
+Por favor, toma asiento y disfruta de este viaje._
 
 ## Tabla de contenidos
 
