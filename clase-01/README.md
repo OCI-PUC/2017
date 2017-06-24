@@ -1,6 +1,6 @@
 # Clase 01
 
-** Video **
+**Video**
 - [Cómo crear nuevo proyecto en Eclipse](https://www.youtube.com/watch?v=VIohrMY7lqM)
 - [Cómo trabajar en Eclipse](https://www.youtube.com/watch?v=AeQGs2-HH3Q)
 
