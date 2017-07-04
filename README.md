@@ -37,7 +37,7 @@ Para mayor información, puedes echarle un vistazo al [programa](programa.pdf) d
 
 ## Calendario
 
-El curso cuenta con **diecisiete** clases presenciales,
+El curso cuenta con **quince** clases presenciales,
 que van desde el 17 de junio hasta el 30 de septiembre.  
 A continuación, puedes ver un calendario más detallado,
 con los contenidos que serán estudiados.
